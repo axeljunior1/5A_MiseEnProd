@@ -1,7 +1,8 @@
 # 5A_MiseEnProd
 Cour de mise en production
 
-Bonjour je m'appelle Axel 
+Bonjour,
+nous nous appellons Axel et Aymen
 
 	Colaborateurs,
 	Aymen 
